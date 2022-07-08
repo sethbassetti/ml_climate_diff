@@ -1,5 +1,4 @@
 wandb
 __pycache__
 *png
-data
 checkpoints/
